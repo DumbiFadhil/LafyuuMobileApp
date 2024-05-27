@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="primary_blue">#40BFFF</color>  <!-- Light Blue -->
+    <color name="primary_red">#FB7181</color>   <!-- Light Red -->
+    <color name="primary_yellow">#FFC833</color> <!-- Light Yellow -->
+    <color name="primary_green">#53D1B6</color> <!-- Light Green -->
+    <color name="primary_purple">#5C61F4</color> <!-- Light Purple -->
+    <color name="black">#000000</color>
+
+    <!-- Neutral Colors -->
+    <color name="neutral_dark">#223263</color>  <!-- Dark Blue Gray -->
+    <color name="neutral_grey">#9098B1</color>  <!-- Medium Blue Gray -->
+    <color name="neutral_light">#EAEFFF</color> <!-- Light Blue Gray -->
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color> <!-- White -->
+
+    <!-- Additional Colors -->
+    <color name="accent_orange">#FFA500</color> <!-- Orange -->
+    <color name="accent_pink">#FF69B4</color>   <!-- Hot Pink -->
+    <color name="accent_cyan">#00FFFF</color>   <!-- Cyan -->
+    <color name="accent_lime">#00FF00</color>   <!-- Lime Green -->
+
+    <!-- The Others (Maintaining naming consistency) -->
+    <color name="indigo_900_87">#232636</color>
+    <color name="white_A700_87">#FFFFFF87</color>
+    <color name="light_blue_A200_19">#40BFFF19</color>
+    <color name="yellow_700">#FFC700</color>
+    <color name="bluegray_300">#9098B1</color>
+    <color name="light_blue_A200">#40BFFF</color>
+    <color name="indigo_A200">#5B61F4</color>
+    <color name="indigo_900">#223263</color>
+    <color name="light_blue_A200_3d">#40BFFF3D</color>
+    <color name="pink_300">#FB7181</color>
+    <color name="white_A700">#FFFFFF</color>
+    <color name="blue_50">#EAEFFF</color>
+
+    <!-- Add Missing Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
 </resources>
