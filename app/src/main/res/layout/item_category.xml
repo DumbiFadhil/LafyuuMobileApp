@@ -18,7 +18,7 @@
             android:id="@+id/category_icon"
             android:layout_width="48dp"
             android:layout_height="48dp"
-            android:src="@drawable/img_dressicon"
+            android:src="@drawable/placeholder_image"
             android:contentDescription="@string/category_icon" />
 
         <TextView

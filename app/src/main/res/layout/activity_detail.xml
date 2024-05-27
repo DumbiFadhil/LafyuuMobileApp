@@ -60,7 +60,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="200dp"
                 android:scaleType="centerCrop"
-                android:layout_marginBottom="16dp" />
+                android:layout_marginBottom="16dp"
+                android:src="@drawable/placeholder_image"/>
 
             <!-- Product Details -->
             <TextView
@@ -78,6 +79,7 @@
                 android:layout_height="wrap_content"
                 android:text="$299.43"
                 android:textColor="@color/primary_blue"
+                android:fontFamily="@font/poppinsbold"
                 android:textSize="18sp"
                 android:paddingBottom="16dp" />
 
@@ -100,11 +102,13 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="6"
+                    android:fontFamily="@font/poppinssemibold"
                     android:background="?attr/selectableItemBackground" />
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="6.5"
+                    android:fontFamily="@font/poppinssemibold"
                     android:background="?attr/selectableItemBackground" />
                 <!-- Add other size buttons similarly -->
             </LinearLayout>
@@ -149,7 +153,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="The Nike Air Max 270 React ENG combines a full-length React foam midsole with a 270 Max Air unit for unrivaled comfort and a striking visual experience."
-                android:paddingBottom="16dp" />
+                android:paddingBottom="16dp"
+                android:fontFamily="@font/poppins"/>
 
             <!-- Review Product -->
             <TextView
